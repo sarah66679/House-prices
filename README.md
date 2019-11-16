@@ -1,4 +1,4 @@
-#  # Project 2: part 1 "House prices" 
+# Project 2: part 1 "House prices" 
 ## Problem Statment:
 House prices are often influenced by several qualities or elements.
 In this project we will try to find the most important elements that affect the rise or fall of house prices significantly.
