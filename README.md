@@ -107,6 +107,7 @@ of which 36 is quantitative, 43 categorical + Id and SalePrice.
 
 <p>We provide four kind of modeling in order to reach to best predections.</p>
 <p>Redge regressions performs best with a cross validation score of 0.14.</p> 
+<img src="image.png" alt="rig result" width="500" height="600">
 
 # Conclusion :
 when we try to find the most affect  to the housing price we find that there is many feature are affect  to the price and the most three affect is Lot Frontage,
